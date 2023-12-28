@@ -2,7 +2,7 @@
 
 Antes de começar
 
-Faça login na sua conta da Google. Acesse o # Google Colab # e faça o download do arquivo notebook “Profissão Analista de dados M2 Material de apoio”.
+Faça login na sua conta da Google. Acesse o **Google Colab** e faça o download do arquivo notebook “Profissão Analista de dados M2 Material de apoio”.
 
 Nesta tarefa, iremos praticar 3 exercícios. 
 
@@ -35,9 +35,10 @@ Os elementos da lista filmes devem ser dicionários no seguinte formato:
 {'nome': <nome-do-filme>, 'ano': <ano do filme>},'sinopse': <sinopse do filme>}
 
 ## Autor: Genésio Moreira Coutinho 
-- Graduado: Bacharelado em Sistemas de Informação | Pós Graduando:  MBA em Gestão da Qualidade em Tecnologia da Informação | 1x Azure - AZ900
+- Graduado: Bacharelado em Sistemas de Informação | Pós Graduando:  MBA em Gestão da Qualidade em Tecnologia da Informação |Analista de Dados | 1x Azure - AZ900
 - Date Analyst | Cloud Infrastructure | Azure | Analista Cloud | Analista Dados | Infraestrutura Cloud | Python
 - Linkedin: https://www.linkedin.com/in/genesio-coutinho-554733124/
 - Kaggle:https://www.kaggle.com/genesiomoreira
 
-- Notebook para execução dos códigos Google Collab: https://colab.research.google.com/drive/1jP_MsWiomFq0Ec7Z6JNGCPejC1_1THqB?usp=sharing
+- Notebook para execução dos códigos Google Collab: https://colab.research.google.com/drive/15VuRFdv_-5ro0qqGpXFaGVzmhpreXG_e?usp=sharing
+

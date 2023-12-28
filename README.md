@@ -2,7 +2,7 @@
 
 Antes de começar
 
-Faça login na sua conta da Google. Acesse o ## Google Colab ## e faça o download do arquivo notebook “Profissão Analista de dados M2 Material de apoio”.
+Faça login na sua conta da Google. Acesse o # Google Colab # e faça o download do arquivo notebook “Profissão Analista de dados M2 Material de apoio”.
 
 Nesta tarefa, iremos praticar 3 exercícios. 
 
